@@ -42,7 +42,7 @@ This README will be updated with:
 
 ---
 
-*"It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to... unless you have LordOfTheBots as your guide!"*
+*"It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to... unless you have Lord Of The Bots as your guide!"*
 
 ![Gandalf Banner](images/nuare-lotr-hobbiton-christmas-final.jpg.adapt.crop16x9.575p.jpg)
 
