@@ -1,10 +1,10 @@
-# 🧙‍♂️ LordOfTheBots: Your Middle-earth Guide 🧝‍♀️
+# 🧙‍♂️ Lord Of The Bots: Your Middle-earth Guide 🧝‍♀️
 
 ![Middle-earth Banner](images/lotr-1920-x-1080-background-nz9pdysn0k1rmu3s.jpg)
 
 ## 📜 Overview
 
-Welcome to **LordOfTheBots** - your ultimate companion through the realms of Middle-earth! This AI chatbot has been forged in the fires of Mount Doom (or rather, with OpenAI and Hugging Face) to answer all your burning questions about J.R.R. Tolkien's legendary world of "The Lord of the Rings" - from the books to Peter Jackson's epic film trilogy.
+Welcome to **Lord Of The Bots** - your ultimate companion through the realms of Middle-earth! This AI chatbot has been forged in the fires of Mount Doom (or rather, with OpenAI and Hugging Face) to answer all your burning questions about J.R.R. Tolkien's legendary world of "The Lord of the Rings" - from the books to Peter Jackson's epic film trilogy.
 
 *"Not all those who wander are lost, but those who have questions about Middle-earth have found the right bot!"*
 
@@ -38,7 +38,7 @@ This README will be updated with:
 
 ## 💍 One Bot to Rule Them All
 
-LordOfTheBots doesn't simply answer your questions - it transports you to Middle-earth with its deep knowledge and engaging responses. Whether you're curious about the Silmarils, wondering about Tom Bombadil's true nature, or debating why one does not simply walk into Mordor, this bot has the answers you seek!
+"Lord Of The Bots" doesn't simply answer your questions - it transports you to Middle-earth with its deep knowledge and engaging responses. Whether you're curious about the Silmarils, wondering about Tom Bombadil's true nature, or debating why one does not simply walk into Mordor, this bot has the answers you seek!
 
 ---
 
